@@ -211,9 +211,9 @@ PERCLOS_THRESHOLD = 0.35   # 35% eye closure in rolling window
 
 ## 👨‍💻 Author
 
-**[Your Name]** — [Your University], [Department], [Year]
+**[Mohammed Muzammil Soherwardi]** — [KL University, Hyderabad], [BCA], [Y23]
 
-Major Project — [Course Name]
+Major Project — [Major Project]
 
 ---
 
